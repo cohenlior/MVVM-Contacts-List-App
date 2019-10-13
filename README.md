@@ -22,7 +22,6 @@ Show phone contact list and call log history in Recyclerview using MVVM with dat
 * LiveData.
 * ViewModel.
 * Repository pattern.
-* LifeCycle.
 
 ## Uses of third-party libraries in the app:
 
