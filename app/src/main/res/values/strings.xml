@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneNumbersApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="require_contacts_permission">Contacts permission required to access device contacts list</string>
+    <string name="require_call_log_permission">Call log permission required to access device call history</string>
+    <string name="out_call">Outgoing call</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="history">History</string>
+</resources>
